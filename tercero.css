@@ -1,0 +1,24 @@
+.amarillo{
+  background-color: yellow;
+  padding-bottom: 3em;
+  width: 200px;
+  height: 100px;
+  display: inline-block;
+}
+
+.gris{
+  background-color: grey;
+  padding-bottom: 3em;
+  width: 200px;
+  height: 100px;
+  display: inline-block;
+
+
+}
+
+h4{
+  padding: 0.4em;
+}
+.blanquito{
+   color: white;
+ }
